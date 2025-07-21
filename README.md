@@ -26,9 +26,6 @@ not recommend but you can also play other retro games which have 4 btn controls
 
 
 ## BOM
-## 💸 how much does it cost? (spoiler: worth it)
-
-Here's the total cost of building **tinyTETRIS** — includes everything from the chip to the case and power. I tried to keep it budget-friendly while still ✨looking pro✨.
 
 |   Part              |   Price (INR) |    Price (USD) |   Source |
 |---------------------|---------------|----------------|-----------|
