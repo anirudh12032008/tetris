@@ -1,0 +1,14 @@
+Name,Price(INR),Price(USD),Source
+PCB,1434,16.6744186,Lion Circuit 
+1.3 inch OLED,249,2.895348837,https://robocraze.com/products/1-3in-oled-display?variant=40192586842265
+Push Btn,46,0.5348837209,https://robocraze.com/products/4-pin-long-pushbutton-switch-pack-of-5?variant=40192487948441
+ATTiny85,249,2.895348837,https://robocraze.com/products/attiny85-usb?variant=40192595132569
+Buzzer,39,0.4534883721,https://robocraze.com/products/buzzer-big?variant=40192517800089
+3.7V Battery ,128,1.488372093,https://robocraze.com/products/3-7v-2000mah-18650-li-ion-battery?variant=41414818758809
+Step up,151,1.755813953,https://robocraze.com/products/lm2577-dc-dc-step-up-power-converter-module?variant=40194409234585
+Slide Switch ,14,0.1627906977,https://robocraze.com/products/slide-switch-3-pin-2-way-spdt?variant=44698610237664
+TP4056,15,0.1744186047,https://robocraze.com/products/tp4056-lithium-battery-charging-board?variant=40192693633177
+Case,500,5.813953488,Print legion
+"Resistor, capacitor",0,0,I have them
+Misc ,200,2.325581395,
+Total ,3025,35.1744186,
