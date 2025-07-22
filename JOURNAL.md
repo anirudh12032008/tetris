@@ -22,6 +22,10 @@ Time spent - 1 hr
 ## June 19 - Redesign PCB 
 so it was looking ugly so I need to retransform it
 so now its vertical looks clean, I added the silkscreen and completed the routing and kindoff finished the full PCB
+<img width="439" height="594" alt="tt1" src="https://github.com/user-attachments/assets/c997f9de-2a92-4a94-a3d9-06cc44b4fb4b" />
+<img width="663" height="349" alt="3" src="https://github.com/user-attachments/assets/21c3e971-87a2-474b-b942-e616150f9793" />
+<img width="404" height="546" alt="2" src="https://github.com/user-attachments/assets/d176aba0-4bfe-4ff7-8d61-80d93d4234d6" />
+
 Time spent - 2hr
 
 ## June 20 - 3D Designing
