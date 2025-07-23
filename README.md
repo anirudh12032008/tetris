@@ -20,9 +20,10 @@ not recommend but you can also play other retro games which have 4 btn controls
 <img width="1366" height="563" alt="tetris v3 2" src="https://github.com/user-attachments/assets/97599b8b-a14a-4221-b42c-1320b415e6fa" />
 <img width="800" height="464" alt="5" src="https://github.com/user-attachments/assets/17ad4913-28d2-4023-8815-49d6884dc143" />
 <img width="710" height="449" alt="4" src="https://github.com/user-attachments/assets/341f9e6c-1e37-4d36-bf8d-18f4a6acbd2b" />
-<img width="663" height="349" alt="3" src="https://github.com/user-attachments/assets/168989e2-9a65-4fff-8c9d-4d6fdf289a46" />
 <img width="404" height="546" alt="2" src="https://github.com/user-attachments/assets/9097f9c4-aa8e-4da2-9556-58e475a1996c" />
 <img width="439" height="594" alt="tt1" src="https://github.com/user-attachments/assets/3c7e4918-7de3-4dea-b1c2-edd5cd74ca5c" />
+<img width="749" height="391" alt="final" src="https://github.com/user-attachments/assets/79a2e816-afd2-4a61-879d-66bb6008782f" />
+
 
 
 ## BOM
