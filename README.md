@@ -15,7 +15,8 @@ not recommend but you can also play other retro games which have 4 btn controls
 
 ## Images 
 
-<img width="1366" height="563" alt="tetris v3" src="https://github.com/user-attachments/assets/d40dbba7-ab24-45ff-a4be-8de4f388921b" />
+<img width="1366" height="418" alt="tetris v8" src="https://github.com/user-attachments/assets/b338b476-40ea-4896-adc7-02e73de9829a" />
+<img width="1366" height="418" alt="tetris v8 2" src="https://github.com/user-attachments/assets/3d0601ef-f2a0-4253-9b49-606f3433ba4f" />
 <img width="1366" height="563" alt="tetris v3 3" src="https://github.com/user-attachments/assets/38e43fc7-b7b7-41ce-8c33-c4b365083406" />
 <img width="1366" height="563" alt="tetris v3 2" src="https://github.com/user-attachments/assets/97599b8b-a14a-4221-b42c-1320b415e6fa" />
 <img width="800" height="464" alt="5" src="https://github.com/user-attachments/assets/17ad4913-28d2-4023-8815-49d6884dc143" />
