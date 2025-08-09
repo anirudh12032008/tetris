@@ -38,6 +38,10 @@ After lots of fixing and moving and fixing again, the box started to look really
 <img width="1366" height="563" alt="tetris v3" src="https://github.com/user-attachments/assets/6821efbf-7922-42b0-863b-5e667858886f" />
 <img width="1366" height="563" alt="tetris v3 3" src="https://github.com/user-attachments/assets/ab4ccdff-83a3-4ec5-a340-559e2ce959b0" />
 <img width="1366" height="563" alt="tetris v3 2" src="https://github.com/user-attachments/assets/9c70f8ea-9bb3-4225-a795-4cd3294b64b7" />
+<img width="724" height="364" alt="13" src="https://github.com/user-attachments/assets/919e109a-b960-4de0-9165-9c65f3c13348" />
+<img width="814" height="448" alt="12" src="https://github.com/user-attachments/assets/3219790b-76af-4127-9f53-829b9a65577e" />
+<img width="814" height="496" alt="11" src="https://github.com/user-attachments/assets/5f77c3e4-8199-4eb9-b7e8-b50de3960996" />
+
 Time spent - 4 Hr
 
 ## July 21 - Firmware , BOM
